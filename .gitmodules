@@ -1,0 +1,6 @@
+[submodule "client"]
+    path = client
+    url = https://github.com/Gustavotp443/CLIENT-PROJETO-TAREFAS
+[submodule "server"]
+    path = server
+    url = https://github.com/Gustavotp443/SERVER-PROJETO-TAREFAS
