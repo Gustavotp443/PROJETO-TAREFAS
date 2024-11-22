@@ -1,6 +1,8 @@
 [submodule "client"]
     path = client
     url = https://github.com/Gustavotp443/CLIENT-PROJETO-TAREFAS
+    branch = main
 [submodule "server"]
     path = server
     url = https://github.com/Gustavotp443/SERVER-PROJETO-TAREFAS
+    branch = main
